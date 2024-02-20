@@ -1,0 +1,32 @@
+/* main * {
+  font-family: "Roboto Mono", monospace;
+} */
+
+.food-category {
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.food-name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: none;
+  margin-bottom: 0.5rem;
+}
+
+.menu {
+  width: 75%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+}
+
+.description {
+  font-size: 0.9rem;
+  color: #4f3f3292;
+}

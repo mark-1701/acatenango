@@ -1,0 +1,2 @@
+# Actividad de aprendizaje trabajo (AAT)
+Desarrollo de página web para un café llamado Acatenango. (todavían faltan algunos detalles en el desarrollo de la página). En el futuro se agregaran los estilos para hacer una página responsive. 
